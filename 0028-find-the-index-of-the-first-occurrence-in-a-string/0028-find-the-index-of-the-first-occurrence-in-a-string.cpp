@@ -6,7 +6,6 @@ public:
 
         for(i=0;i<haystack.size();i++){
             string s=haystack.substr(i,needle.size());
-            cout<<s<<" ";
             if(s==needle){
                 p=i;
                 c=1;
