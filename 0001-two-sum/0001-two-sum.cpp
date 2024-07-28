@@ -18,28 +18,46 @@ public:
     //     }
     //    return a; 
 
-    int i,j,c=0;
-    int x,y;
+    // int i,j,c=0;
+    // int x,y;
+    // vector<int>v1;
+
+    // for(i=0;i<nums.size();i++){
+        
+    //         x=nums[i];
+    //         y=target-x;
+
+    //         for(j=i+1;j<nums.size();j++){
+    //         if(nums[j]==y){
+    //            v1.push_back(i);
+    //            v1.push_back(j);
+    //            c=1;
+    //            break;
+    //         }
+    //     }
+        
+
+        
+
+    //     if(c==1){
+    //         break;
+    //     }
+    // }
+
+    // return v1;
+
+    map<int,int>m;
     vector<int>v1;
+    int i;
 
     for(i=0;i<nums.size();i++){
-        
-            x=nums[i];
-            y=target-x;
 
-            for(j=i+1;j<nums.size();j++){
-            if(nums[j]==y){
-               v1.push_back(i);
-               v1.push_back(j);
-               c=1;
-               break;
-            }
+        if(m.find(target-nums[i])==m.end()){
+            m[nums[i]]=i;
         }
-        
-
-        
-
-        if(c==1){
+        else{
+            v1.push_back(i);
+            v1.push_back(m[target-nums[i]]);
             break;
         }
     }
