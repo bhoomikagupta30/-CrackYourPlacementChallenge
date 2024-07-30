@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0012-integer-to-roman) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
