@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Math
 |  |
