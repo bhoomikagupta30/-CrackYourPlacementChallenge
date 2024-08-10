@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0067-add-binary) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
