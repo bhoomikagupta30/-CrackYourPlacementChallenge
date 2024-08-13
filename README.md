@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0874-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0874-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
