@@ -1,6 +1,125 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+      map<int,int>m;
+      vector<int>v1;
+
+      int i;
+
+      for(i=0;i<nums.size();i++){
+          
+          if(m.find(target-nums[i])==m.end()){
+             m[nums[i]]=i;
+          }
+          else{
+            v1.push_back(i);
+            v1.push_back(m[target-nums[i]]);
+            break;
+          }
+      }
+
+      return v1;
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        //Brute force
     //     int i,j,c=0;
     //     vector<int>a;
     //     for(i=0;i<nums.size();i++){
@@ -46,23 +165,25 @@ public:
 
     // return v1;
 
-    map<int,int>m;
-    vector<int>v1;
-    int i;
+    // O(NlogN) approach
 
-    for(i=0;i<nums.size();i++){
+    // map<int,int>m;
+    // vector<int>v1;
+    // int i;
 
-        if(m.find(target-nums[i])==m.end()){
-            m[nums[i]]=i;
-        }
-        else{
-            v1.push_back(i);
-            v1.push_back(m[target-nums[i]]);
-            break;
-        }
-    }
+    // for(i=0;i<nums.size();i++){
 
-    return v1;
+    //     if(m.find(target-nums[i])==m.end()){
+    //         m[nums[i]]=i;
+    //     }
+    //     else{
+    //         v1.push_back(i);
+    //         v1.push_back(m[target-nums[i]]);
+    //         break;
+    //     }
+    // }
+
+    // return v1;
     
 } 
 };
