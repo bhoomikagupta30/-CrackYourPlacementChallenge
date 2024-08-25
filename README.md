@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0206-reverse-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
