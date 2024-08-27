@@ -2,6 +2,99 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
          
+    //    int i,j,k,target;
+    //    vector<vector<int>>ans;
+       
+       
+    //    sort(nums.begin(),nums.end());
+
+    //    for(i=0;i<nums.size();i++){
+    //       target=(-1)*(nums[i]);
+    //       j=i+1;
+    //       k=nums.size()-1;
+
+    //       while(j<k){
+
+    //         if(nums[j]+nums[k]==target){
+    //             vector<int>v1;
+    //             v1={nums[i],nums[j],nums[k]};
+    //             ans.push_back(v1);
+
+    //             while(j<k && nums[j]==v1[1]){
+    //                 j++;
+    //             }
+
+    //             while(j<k && nums[k]==v1[2]){
+    //                 k--;
+    //             }
+
+
+    //         }
+    //         else{
+
+    //             if(nums[j]+nums[k]>target){
+    //                 k--;
+    //             }
+    //             else{
+    //                 j++;
+    //             }
+    //         }
+    //       }
+
+    //       if(i<nums.size()-1 && nums[i+1]==nums[i]){
+    //         i++;
+    //       }
+
+    //    }
+
+    //    return ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
          //Brute force(Time Limit Exceeded)
 
 
