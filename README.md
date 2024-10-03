@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1694-make-sum-divisible-by-p) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 | [1256-rank-transform-of-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1694-make-sum-divisible-by-p) |
 ## String
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
