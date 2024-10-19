@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0283-move-zeroes) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0067-add-binary) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0628-maximum-product-of-three-numbers) |
