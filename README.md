@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0283-move-zeroes) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0012-integer-to-roman) |
+| [0141-linked-list-cycle](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0234-palindrome-linked-list) |
