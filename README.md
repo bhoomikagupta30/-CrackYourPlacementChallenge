@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0567-permutation-in-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0012-integer-to-roman) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0567-permutation-in-string) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
