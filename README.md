@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0567-permutation-in-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
@@ -148,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
 | ------- |
