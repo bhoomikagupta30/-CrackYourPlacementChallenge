@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0067-add-binary) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1013-fibonacci-number) |
 ## Interactive
 |  |
 | ------- |
@@ -182,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
