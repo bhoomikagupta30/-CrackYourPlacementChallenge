@@ -12,15 +12,25 @@
 class Solution {
 public:
 
-    vector<int>v1;
+    
     vector<int> inorderTraversal(TreeNode* root) {
-        
-        if(root!=NULL){
-            inorderTraversal(root->left);
-            v1.push_back(root->val);
-            inorderTraversal(root->right);
-        }
-
+        vector<int>v1;
+        helper(root,v1);
         return v1;
+        
+    }
+
+    void helper(TreeNode *root,vector<int>&v1){
+
+        if(root!=NULL){
+
+            helper(root->left,v1);
+            v1.push_back(root->val);
+            helper(root->right,v1);
+
+
+
+
+        }
     }
 };
