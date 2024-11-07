@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0874-backspace-string-compare) |
@@ -197,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
