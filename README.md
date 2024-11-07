@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1694-make-sum-divisible-by-p) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1019-squares-of-a-sorted-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
