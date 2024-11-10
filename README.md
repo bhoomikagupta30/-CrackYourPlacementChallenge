@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0567-permutation-in-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
