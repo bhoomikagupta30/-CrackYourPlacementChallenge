@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0287-find-the-duplicate-number) |
+| [3394-minimum-array-end](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
 | ------- |
