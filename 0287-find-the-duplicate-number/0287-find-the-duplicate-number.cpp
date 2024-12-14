@@ -1,39 +1,65 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        // map<int,int>m;
-        // int c;
 
-        // for(int i=0;i<nums.size();i++){
-        //     m[nums[i]]++;
-        // }
+        //Time limit exceeded
 
-        // map<int,int>::iterator it;
-        // for(it=m.begin();it!=m.end();it++){
-        //     if(it->second>1){
-        //         c=it->first;
+        // int i,j,k,c=0;
+
+        // for(i=0;i<nums.size();i++){
+
+        //     for(j=i+1;j<nums.size();j++){
+
+        //         if(nums[i]==nums[j]){
+        //             c=1;
+        //             k=nums[j];
+        //             break;
+
+        //         }
+        //     }
+        //     if(c==1){
         //         break;
         //     }
         // }
-        // return c;
 
-        sort(nums.begin(),nums.end());
+        // return k;
 
-        int i,j;
 
-        i=0;
-        j=1;
+        map<int,int>m1;
 
-        while(i<nums.size()){
-            if(nums[i]==nums[j]){
-                break;
-            }
-            else{
-                i++;
-                j++;
+        int i;
+
+        for(int i=0;i<nums.size();i++){
+            m1[nums[i]]++;
+        }
+
+        int l;
+        map<int,int>::iterator it;
+        for(it=m1.begin();it!=m1.end();it++){
+            if(it->second>1){
+               l=it->first;
+               break;
             }
         }
 
-        return nums[i];
+
+        return l;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
-};
+
+
+    };
+        
