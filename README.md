@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0088-merge-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0219-contains-duplicate-ii) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/bhoomikagupta30/-CrackYourPlacementChallenge/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
