@@ -2,57 +2,75 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // } Driver Code Ends
-class Solution{
-    public:
-    long long findMinDiff(vector<long long> a, long long n, long long m){
+class Solution {
+  public:
+    int findMinDiff(vector<int>& a, int m) {
+        
         sort(a.begin(),a.end());
-        int i,j;
+        int i=0;
+        int j=m-1;
+        int diff=a[m-1]-a[0];
         
-        i=0;
-        j=m-1;
-        int min;
-        min = a[j]-a[i];
-        i++;
-        j++;
-        
-        while(j!=n){
-            
-            if(min>a[j]-a[i]){
-                min=a[j]-a[i];
+        while(j<a.size()){
+            if(a[j]-a[i]<diff){
+                diff=a[j]-a[i];
             }
             i++;
             j++;
         }
         
-        return min;
+        return diff;
         
         
-    
-    }   
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    }
 };
 
 //{ Driver Code Starts.
+
 int main() {
-	long long t;
-	cin>>t;
-	while(t--)
-	{
-		long long n;
-		cin>>n;
-		vector<long long> a;
-		long long x;
-		for(long long i=0;i<n;i++)
-		{
-			cin>>x;
-			a.push_back(x);
-		}
-		
-		long long m;
-		cin>>m;
-		Solution ob;
-		cout<<ob.findMinDiff(a,n,m)<<endl;
-	}
-	return 0;
+    int t;
+    cin >> t;
+    cin.ignore();
+    while (t--) {
+        vector<int> arr;
+        string input;
+        getline(cin, input);
+        stringstream ss(input);
+        int number;
+        while (ss >> number) {
+            arr.push_back(number);
+        }
+
+        int m;
+        cin >> m;
+        cin.ignore();
+        Solution ob;
+        cout << ob.findMinDiff(arr, m) << endl;
+        cout << "~" << endl;
+    }
+    return 0;
 }
+
 // } Driver Code Ends
